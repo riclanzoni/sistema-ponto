@@ -1,0 +1,11 @@
+Arquivos sensíveis
+config.php
+
+Arquivos temporários
+*.log
+*.cache
+*.tmp
+
+Diretórios
+vendor/
+node_modules/
